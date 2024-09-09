@@ -1,0 +1,1036 @@
+{
+    "items": [
+        {
+			"content":"movie",
+            "title": "Duna: Coleção",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/duna.xml",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5qcENcUsmHzvKeDKSf3COGOwJm.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/iCFFmXkK5FdIzqZyyQQEdpkTo8C.jpg",
+            "genre": "Adventure, Science Fiction",
+            "summary": "A saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
+            "type": "dir"
+        },
+		{
+			"title":"John Wick: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41CVGwXoXkcozabIiCXpPSunLjZ.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
+			"genre":"Ação, Suspense, Crime",
+			"link":"tmdb/collection/404609",
+			"type":"dir"
+		},
+		{
+			"title":"Harry Potter: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/original/oD2dRmLPrluxJTlSlpMaAzDnz3.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg",
+			"genre":"Aventura, Fantasia",
+			"link":"tmdb/collection/1241",
+			"type":"dir"
+		},
+		{
+			"title":"Jogos Vorazes: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tpq93sfKJjq6EOWkhp3LN2HOuaW.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/zWiiLNg8yXv0he3tCH6XignPaYV.jpg",
+			"genre":"Aventura, Fantasia, Ação, Suspense, Ficção Científica",
+			"link":"tmdb/collection/131635",
+			"type":"dir"
+		},
+		{
+			"title":"Shrek: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/md3s2Z5bE2AwQlCjFS5UxhfKhdU.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg",
+			"genre":"Aventura, Fantasia, Animação, Comédia, Família",
+			"link":"tmdb/collection/2150",
+			"type":"dir"
+		},
+		{
+			"title":"Toy Story: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg",
+			"genre":"Aventura, Fantasia, Animação, Comédia, Família",
+			"link":"tmdb/collection/10194",
+			"type":"dir"
+		},
+		{
+			"title":"Kung Fu Panda: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7X73TVXQhHF6bZYaj557GePr5nu.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/uDosHOFFWtF5YteBRygHALFqLw2.jpg",
+			"genre":"Aventura, Animação, Ação, Comédia, Família",
+			"link":"tmdb/collection/77816",
+			"type":"dir"
+		},
+		{
+			"title":"007 James Bond: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dTxLAJftBBCI28QfS7aN23hhyex.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/iMyzpZiBLoojAbWt1WfxfnHuf2P.jpg",
+			"genre":"Adventure, Drama, Action, Thriller, Crime, Science Fiction",
+			"link":"tmdb/collection/645",
+			"type":"dir"
+		},
+		{
+			"title":"MIB - Homens de Preto: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1n1SduNkZ92m9gTlf4BhSqJoZf9.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg",
+			"genre":"Adventure, Action, Comedy, Science Fiction",
+			"link":"tmdb/collection/86055",
+			"type":"dir"
+		},
+		{
+			"title":"Batman: O Cavaleiro das Trevas: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6xEzcEudPCatCgZPESqS2OdZ5L.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg",
+			"genre":"Drama, Action, Thriller, Crime",
+			"link":"tmdb/collection/155",
+			"type":"dir"
+		},
+		{
+			"title":"Exterminador do Futuro: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xd2YpJhY6Kap9WS4eSOpuRFWcSH.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/rbXxcKeW07QDtqaRw8WPZh4JFdD.jpg",
+			"genre":"Aventura, Ação, Suspense, Ficção Científica",
+			"link":"tmdb/collection/528",
+			"type":"dir"
+		},
+		{
+			"title":"Jurassic Park: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/8mFbNmYcMFYCiJPBs3jYTfIOxne.jpg",
+			"genre":"Aventura, Ação, Suspense, Ficção Científica",
+			"link":"tmdb/collection/328",
+			"type":"dir"
+		},
+		{
+			"title":"Matrix: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/original/e6MmtcSkL1Hw6ghsc5XJybfWzCv.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/RhUxjzNojIJsdZSYTn0CQvdKsn.jpg",
+			"genre":"Aventura, Ação, Suspense, Ficção Científica",
+			"link":"tmdb/collection/2344",
+			"type":"dir"
+		},
+		{
+			"title":"Maze Runner: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cNGErzNuuL1wYM6e7kYNlsHtvmu.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg",
+			"genre":"Ação, Mistério, Ficção científica, Thriller",
+			"link":"tmdb/collection/295130",
+			"type":"dir"
+		},
+		{
+			"title":"Meu Malvado Favorito: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95prV91f4DxkBnLU43YjLbU1m3q.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/37xamYKRUGCRux532lKcZdVGYuR.jpg",
+			"genre":"Aventura, Animação, Ação, Comédia, Família",
+			"link":"tmdb/collection/86066",
+			"type":"dir"
+		},
+		{
+			"title":"Minha Mãe é uma Peça: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vH37BsIhlQyU2frTyxXUOTQQTEl.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/w7zPAsAU94CxcYlyO68W2C83rbE.jpg",
+			"genre":"Comédia",
+			"link":"tmdb/collection/455278",
+			"type":"dir"
+		},
+		{
+			"title":"Missão - Impossivel: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4eqpRQONnsx6umo0BXE6MBW834n.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/jYl0UuJFcmhymv9ZNO14lPLDY1Z.jpg",
+			"genre":"Ação, Aventura, Suspense",
+			"link":"tmdb/collection/87359",
+			"type":"dir"
+		},
+		{
+			"title":"X-Men: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnwaGyrI5LZvjtmGugVhOexOilP.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/2jMXECTRYfs0EZWJgDzlcH6MmBQ.jpg",
+			"genre":"Aventura, Fantasia, Ação, Suspense, Ficção Científica",
+			"link":"tmdb/collection/748",
+			"type":"dir"
+		},
+		{
+			"title":"Planeta dos Macacos (Reboot): Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qZKePs11s5lP4dfVmsI97NTvbQ2.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/uRRPDjkcavi8HuSYGiqOsLJefhL.jpg",
+			"genre":"Drama, Ação, Suspense, Ficção Científica, Guerra",
+			"link":"tmdb/collection/173710",
+			"type":"dir"
+		},
+		{
+			"title":"O Senhor dos Anéis: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/original/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
+			"genre":"Aventura, Fantasia, Ação",
+			"link":"tmdb/collection/119",
+			"type":"dir"
+		},
+		{
+			"title":"Se Beber, Não Case!: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dcHYkUiqZeVNDo1PDop5Zur4U5V.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/uEtsf26a9RsRDy85MOIv1xAj44x.jpg",
+			"genre":"Comédia",
+			"link":"tmdb/collection/86119",
+			"type":"dir"
+		},
+		{
+			"title":"Cemitério Maldito: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/FYIdCS39yn0NGFDFlRUXUmRxRk.jpg",
+			"genre":"Terror",
+			"link":"tmdb/collection/10789",
+			"type":"dir"
+		},
+        {
+            "title": "Uma Noite de Crime: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO8KF89eSpsqtyLDMoqSQEj8OJK.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg",
+            "genre": "Horror, Action, Thriller, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/unc.xml",
+            "summary": "Uma série de filmes de suspense de terror baseados em uma futura América distópica, onde todo crime é legalizado uma vez por ano.",
+            "type": "dir"
+        },
+        {
+            "title": "Uma Noite no Museu: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBNOxkCICkQReUarpIuph6jlWBZ.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg",
+            "genre": "Adventure, Fantasy, Action, Comedy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/unnm.xml",
+            "summary": "Série de filmes estrelados por Ben Stiller como guarda noturno do Museu de História Natural de Nova York.",
+            "type": "dir"
+        },
+        {
+            "title": "O Hobbit: Coleção",
+            "thumbnail": "https://image.tmdb.org/t/p/original/o8Mkme2Pp2zu7VCR6rnTKmXJn8p.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/1BDuNnj4YwK12rnJ8U5hqHzvGpv.jpg",
+            "genre": "Adventure, Fantasy, Action",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/ohbt.xml",
+            "summary": "O Hobbit é uma coleção de 3 filmes épicos de fantasia e aventura, baseados no romance de fantasia de J. R. R. Tolkien, com o mesmo título. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de O Senhor dos Anéis.",
+            "type": "dir"
+        },
+        {
+            "title": "Bad Boys: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTGvYsEwk4nFzSUIGPLlwWrNH11.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/mNR3xSPbwpIoAtrsbuafei2YkNm.jpg",
+            "genre": "Action, Comedy, Thriller, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/bdb.xml",
+            "summary": "Uma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro.",
+            "type": "dir"
+        },
+       
+        {
+            "title": "O Poderoso Chefão: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s4i9pFeUj4gSJaA487kjq9ePJrR.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg",
+            "genre": "Drama, Thriller, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/opc.xml",
+            "summary": "Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.",
+            "type": "dir"
+        },
+        {
+            "title": "Premonição: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg",
+            "genre": "Horror, Mystery",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/pc.xml",
+            "summary": "Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.",
+            "type": "dir"
+        },
+		{
+			"title":"Rocky: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zabK4aLJxaXahDBrRbYbpaMdqxM.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/JhGydj4q5y8MoWZFyj15yKNrzC.jpg",
+			"genre":"Drama",
+			"link":"tmdb/collection/1575",
+			"type":"dir"
+		},
+		{
+			"title":"Sicario: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bq1jirS72jnaSjalrvCY9hwJZVx.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/1v5AHV0LXaOrCe0ZJBUbvGeu3BT.jpg",
+			"genre":"Adventure, Action, Thriller, Crime",
+			"link":"tmdb/collection/496796",
+			"type":"dir"
+		},
+		{
+			"title":"Sonic: Coleção",
+			"thumbnail":"https://media.themoviedb.org/t/p/w500_and_h282_face/p0OEasPQf0Jh9T88nDxvwDnSucC.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/8jfHKno4tRZ621Uzw4heEaJPgRM.jpg",
+			"genre":"Adventure, Action, Comedy, Science Fiction, Family",
+			"link":"tmdb/collection/720879",
+			"type":"dir"
+		},
+		{
+			"title":"Angry Birds: Coleção",
+			"thumbnail":"https://media.themoviedb.org/t/p/w500_and_h282_face/mG6ZdoYDggcX0LeQoSc2JJxgzk2.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/v46tzzYiG2FIXqtuuo1OLSjOLuQ.jpg",
+			"genre":"Adventure, Fantasy, Animation, Action, Comedy, Science Fiction, Family",
+			"link":"tmdb/collection/531315",
+			"type":"dir"
+		},
+        {
+            "title": "Presos no Gelo: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIpFtZacjn0VOcLi2iVcFKVeJIy.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/kBK4qx9YGQ1wq3KC2Xzj98TZLdk.jpg",
+            "genre": "Horror, Thriller, Mystery",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/png.xml",
+            "summary": "Um grupo de jovens vai para as montanhas com a intenção de esquiar e se divertir. Ali, tudo vai bem até que um deles acaba quebrando a perna. Assim, eles começam a procurar alguma ajuda na afastada região e dão de cara com um hotel abandonado. O hotel está vazio e silencioso, claramente fechado há vários anos. As linhas telefônicas estão mortas e a gangue percebe que eles têm que passar a noite lá. Mas cercados por montanhas e a noite, eles acham sinal horrível de que eles não estão tão sozinhos quanto eles pensaram ...",
+            "type": "dir"
+        },
+        {
+            "title": "Quarteto Fantástico: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x11GjaXoHCdyLfrcC7VpjP2jlta.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/ubmM1Fuuop6TPGUlRyETSybWWws.jpg",
+            "genre": "Adventure, Fantasy, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/qf.xml",
+            "summary": "Filme de super-heróis baseados na equipe da Marvel Comics do mesmo nome. Quatro indivíduos ganharam superpotências após a exposição a raios cósmicos durante uma missão científica ao espaço exterior: Senhor Fantastico (Reed Richards), a Mulher Invisível (Susan Sue Storm), o Tocha Humana (Johnny Storm) e a Coisa (Ben Grimm).",
+            "type": "dir"
+        },
+        {
+            "title": "Resident Evil: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ETUTjVmac01MkWHH5xi05z7ifi.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/3hqSP5YGsbOjNZ4ymcg3wnGPgSW.jpg",
+            "genre": "Adventure, Horror, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/re.xml",
+            "summary": "Baseado vagamente nos game da Capcom do mesmo nome. A série de filmes é escrita por Paul W.S. Anderson com a protagonista Alice, interpretada por Milla Jovovich. A Umbrella Corporation atua como o principal antagonista da série, uma empresa farmacêutica de bioengenharia responsável pelo apocalipse zumbi como resultado da criação do virus T.",
+            "type": "dir"
+        },
+        {
+            "title": "As Crônicas de Riddick: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pBjtc1KOkaIUTue4Lu3yx2Cg1ah.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/xb5zyHecWA7UACdiNPXDA3m5HSY.jpg",
+            "genre": "Action, Thriller, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/acr.xml",
+            "summary": "As Crônicas de Riddick é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.",
+            "type": "dir"
+        },
+        {
+            "title": "O Escorpião Rei: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CoJjjzEdSNfrQCjl2CtAHKvbP9.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/9M2JRhdxZI36kTEnDlKO0Wmm89T.jpg",
+            "genre": "Adventure, Fantasy, Drama, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/oer.xml",
+            "summary": "O Escorpiao Rei é um spin-off de O Retorno da Múmia (2001) e segue a história de Mathayus e sua ascensão para se tornar o Rei Escorpião. A franquia começou com o filme de 2002 O Escorpião Rei, dirigido por Chuck Russell e estrelado por Dwayne The Rock Johnson, Kelly Hu, Grant Heslov e Michael Clarke Duncan.",
+            "type": "dir"
+        },
+        {
+            "title": "Eu Sei O Que Vocês Fizeram No Verão Passado: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2g6Ui3CCNcDtL4wasCziivogpfW.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/guXWsiQYpzEJ832Kebd72Qp1Hyq.jpg",
+            "genre": "Horror, Thriller, Mystery",
+            "link": "tmdb/collection/3601",
+            "summary": "I Know What You Did Last Summer () é um filme estadunidense de 1997, do gênero slasher, baseado no romance homônimo de 1973 de Lois Duncan. O filme é estrelado por Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe e Freddie Prinze Jr., com Anne Heche e Bridgette Wilson aparecendo em papéis coadjuvantes. A trama gira em torno de quatro amigos que estão sendo perseguidos por um assassino, um ano depois de encobrir um acidente de carro no qual eles estavam envolvidos. O filme foi dirigido por Jim Gillespie, a partir de um roteiro escrito por Kevin Williamson, roteirista de Pânico. O filme foi seguido por duas sequências, I Still Know What You Did Last Summer (1998) e o lançamento direto para DVD I'll Always Know What You Did Last Summer (2006). Embora o primeiro filme veja uma continuação do enredo estabelecido em seu antecessor, o segundo filme estabelece um novo enredo e não estrela nenhum membro do elenco dos dois filmes anteriores.",
+            "type": "dir"
+        },
+        {
+            "title": "Halloween: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/8XxiJ9WYHAzFZMbvq3Jf6JyMEbt.jpg",
+            "genre": "Fantasy, Horror, Thriller, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/hlw.xml",
+            "summary": "Halloween é uma série de filmes de terror que consiste em filmes de estripador focados no personagem fictício de Michael Myers. As mortes de Michael ocorrem no feriado de Halloween, no qual todos os filmes ocorrem principalmente.",
+            "type": "dir"
+        },
+        {
+            "title": "Deadpool: Coleção",
+            "thumbnail": "https://image.tmdb.org/t/p/original/cGGmUUOWWsgpO7SIYdzGOSxprK7.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg",
+            "genre": "Adventure, Action, Comedy, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/ddpool.xml",
+            "summary": "Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men.",
+            "type": "dir"
+        },
+        {
+            "title": "High School Musical: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cn5Ik0y9K8zkk09JYWaD8YNGmoC.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/t1mwGPJi3NkwMeyeUHr9zlQhlTo.jpg",
+            "genre": "Drama, Comedy, Music, Romance, Family, TV Movie",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/hhmusical.xml",
+            "summary": "A série de filmes High School Musical narra dois alunos do ensino médio, Troy Bolton, capitão do time de basquete da East High School (Wildcats) e Gabriella Montez, uma tímida aluna de topo. Ambos tentam os papéis principais no musical de sua escola e rapidamente se apaixonam no processo, apesar da falta de apoio do resto de seus colegas de classe, sendo um deles Sharpay Evans e seu irmão companheiro Ryan Evans. O filme também se concentra em Chad Danforth, o melhor amigo de Troy e Taylor McKessie, o melhor amigo de Gabriella que também se apaixonam.",
+            "type": "dir"
+        },
+        {
+            "title": "Homem de Ferro: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kOhdPgiKCgnZixjpTxBag5Sxr4J.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg",
+            "genre": "Adventure, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/hdferro.xml",
+            "summary": "Série de filmes de super-herói, baseado no personagem da Marvel Comics com o mesmo nome e parte do Universo Marvel. Tony Stark é o Homem de Ferro, um industrial e engenheiro, que usa um exoesqueleto motorizado, para combater os inimigos, com a ajuda de sua assistente pessoal e interesse amoroso Pepper Potts.",
+            "type": "dir"
+        },
+        {
+            "title": "Indiana Jones: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lUiJKFmAqELHXNTr0eXqPGJYhsa.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg",
+            "genre": "Aventura, Ação",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/ijones.xml",
+            "summary": "Indiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.",
+            "type": "dir"
+        },
+        {
+            "title": "Bourne: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1L72fPvW8ITWCnx1lXlSFa2cTtO.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/dDDyEGgLvTSSRcp36eJcPDUErap.jpg",
+            "genre": "Drama, Action, Thriller, Mystery",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/bourne.xml",
+            "summary": "Os filmes Bourne são uma série de filmes de ação e suspense baseados no personagem Jason Bourne, um assassino da CIA que sofre de extrema perda de memória e precisa descobrir quem ele é. O personagem é baseado em romances de Robert Ludlum. O quarto filme da série apresenta Aaron Cross, um agente do Departamento de Defesa que foge para salvar sua vida por causa das ações de Bourne.",
+            "type": "dir"
+        },
+		{
+            "title": "Procurando Nemo: Coleção",
+            "thumbnail": "https://image.tmdb.org/t/p/original/xwggrEugjcJDuabIWvK2CpmK91z.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/yzqaKAhglTrkeOfuIXYYArf0WnA.jpg",
+            "link": "tmdb/collection/137697",
+            "type": "dir"
+        },
+		{
+			"title":"Star Wars: Coleção",
+			"thumbnail":"https://image.tmdb.org/t/p/original/suaJuFprbgdZaTE0mOt0xWIGFyQ.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/d8duYyyC9J5T825Hg7grmaabfxQ.jpg",
+			"genre":"Adventure, Action, Science Fiction",
+			"link":"tmdb/collection/10",
+			"type":"dir"
+		},
+		{
+            "title": "Homem-Aranha: Aranhaverso Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg",
+            "genre": "Adventure, Animation, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/aranha-verso.xml",
+            "summary": "Série de filmes animados focado no Homem Aranha de Miles Morales, um adolescente negro com ascendência hispânica que acidentalmente ganha os poderes de seu herói favorito.",
+            "type": "dir"
+        },
+        {
+            "title": "Homem-Aranha: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if5xIGg503peo157ZtQY8fIzMEl.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg",
+            "genre": "Adventure, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/haranha.xml",
+            "summary": "Baseada no personagem Homem-Aranha da Marvel Comics. A trilogia está centrada em Peter Parker, um fotógrafo freelancer, academicamente talentoso, mas socialmente inepto, que é mordido por uma aranha geneticamente modificada e ganha habilidades de aranha, tudo o que ele usa para combater o crime como um vigilante mascarado de aranha aprendendo por si mesmo que Com grandes poderes vem grandes responsabilidades",
+            "type": "dir"
+        },
+		{
+			"title":"Os Vingadores: Coleção",
+			"thumbnail":"https://image.tmdb.org/t/p/original/afKUZSOVZRajahOyjDzINaqa6YD.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/irDiLpzsJVFRg6FAbOL7IVvYrpl.jpg",
+			"genre":"Adventure, Action, Science Fiction",
+			"link":"tmdb/collection/86311",
+			"type":"dir"
+		},
+		{
+			"title":"Thor: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AgbYlpT11CxKfd9yR5bDJn6Ueyw.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/lH61mn3GzZkaJL2MIEp9DGi0IpU.jpg",
+			"genre":"Adventure, Fantasy, Action, Comedy, Science Fiction",
+			"link":"tmdb/collection/131296",
+			"type":"dir"
+		},
+		{
+			"title":"Transformers: Coleção",
+			"thumbnail":"https://image.tmdb.org/t/p/original/edbu1FVKEuTO3FgJemKJhn0In53.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg",
+			"genre":"Adventure, Action, Science Fiction",
+			"link":"tmdb/collection/",
+			"type":"dir"
+		},
+		{
+			"title":"Capitão América: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Az8phwtTIQ4THpizQ54Xa6dB7x.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/7kVucUYqz8fZkOmFtA8opDwJFXM.jpg",
+			"genre":"Adventure, Action, Science Fiction",
+			"link":"tmdb/collection/131295",
+			"type":"dir"
+		},
+		{
+			"title":"Velozes e Furiosos: Coleção",
+			"thumbnail":"https://image.tmdb.org/t/p/original/bj2y7PABBBzrI1POZFtqPwYJA4m.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/56h4DCt0ogIRI7B71xD5iA5hES1.jpg",
+			"genre":"Adventure, Drama, Action, Thriller, Crime",
+			"link":"tmdb/collection/9485",
+			"type":"dir"
+		},
+        {
+            "title": "A Escolha Perfeita: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/grsi6lzIayJ3YlRIyyPIM7RiSPq.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/jolu4gMP6g2VmUZt099U6X6jNNJ.jpg",
+            "genre": "Comedy, Music, Romance",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/aeperfeita.xml",
+            "summary": "A Escolha Perfeita é uma coletânea composta por dois filmes lançados em 2012 (A Escolha Perfeita) e 2015 (A Escolha Perfeita 2) e deverá ser lançado o terceiro filme da coleção, intitulado no Brasil como ´A Escolha Perfeita 3´, previsto para lançamento em 2017.",
+            "type": "dir"
+        },
+        {
+            "title": "Loucademia de Polícia: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/piIGNOxHdG4u5FVgvphDl1hlK82.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/4fjmNFs31JPfa4rYtE3gNDspGlk.jpg",
+            "genre": "Comedy, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/ldpolicia.xml",
+            "summary": "Loucademia de Polícia é uma série de filmes de comédia americanos, os primeiros seis feitos na década de 1980. O sétimo e último filme, Loucademia de Polícia 7: Missão Moscou, foi lançado em 1994. A série começou com Loucademia de Polícia (1984), que começou com a premissa de que um novo prefeito havia anunciado uma política exigindo o departamento de polícia a aceitar todos os recrutas dispostos. O filme acompanhou um grupo de recrutas desajustados em suas tentativas de provar que são capazes de ser policiais. O personagem principal, Cadete Carey Mahoney (Steve Guttenberg), é um delinquente que foi forçado a ingressar na academia de polícia como punição.",
+            "type": "dir"
+        },
+        {
+            "title": "Madagascar: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jehSFsO0ViCSrGmQeRXo9mjenVp.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg",
+            "genre": "Adventure, Animation, Comedy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/madagascar.xml",
+            "summary": "A coleção de filmes Madagascar acompanha as aventuras hilárias de quatro animais do zoológico de Nova York, que são acidentalmente enviados para a natureza e precisam encontrar o caminho de volta para casa, enfrentando desafios emocionantes e fazendo amigos inesperados ao longo do caminho.",
+            "type": "dir"
+        },
+        {
+            "title": "Mad Max: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eMXFdHO9GdP6RFdCliGfPMfer2s.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg",
+            "genre": "Adventure, Action, Thriller, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/mdmax.xml",
+            "summary": "Nos anais dos filmes de ação, poucos se comparam a este eletrizante épico que mistura velocidade e carnificina, que lança o espectador em uma paisagem desoladora e sequer imaginada, onde o futuro pós-guerra nuclear encontra o passado mitológico. Mais simplesmente, trata-se de um dos mais poderosos filmes de ação já feitos. Mel Gibson deixou sua marca na história da Sétima Arte como o herói solitário Max, que dirige o último dos V-8 pelas estradas que cortam o outback australiano em um infindável busca por gasolina.",
+            "type": "dir"
+        },
+        {
+            "title": "Rebel Moon: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17fiEIxD7ClGW33IdxpRb0mdXgF.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/tCo96jmjKEMoWa5eCZNNss3MtMH.jpg",
+            "genre": "Drama, Action, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/rbmoon.xml",
+            "summary": "Épico de ficção científica de Zack Snyder, dividido em dois filmes.",
+            "type": "dir"
+        },
+        {
+            "title": "Anjos da Lei: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cT5XcWXJ650zggxFosNzEsJISv.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/iiAbTNYXpMadPDH4MkjUoJzcGn4.jpg",
+            "genre": "Action, Comedy, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/alei.xml",
+            "summary": "Anjos da Lei é uma empolgante coleção de filmes de comédia policial que segue a história de dois policiais desajustados que se infiltram em escolas para combater o crime. Com uma mistura irresistível de ação, humor e amizade, eles enfrentam desafios hilariantes e perigosos, deixando uma trilha de risadas por onde passam.",
+            "type": "dir"
+        },
+        {
+            "title": "A Hora do Pesadelo: Coleção",
+            "thumbnail": "https://image.tmdb.org/t/p/original/7i3FATsCl8MSYW4IurarIUAmpog.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/fg0HtE2tm61vJPrusIaSfQK03vd.jpg",
+            "genre": "Fantasy, Horror, Thriller, Mystery",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/hpesadelo.xml",
+            "summary": "Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger, um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger, pode retornar para se vingar daqueles que o mataram, através do sono.",
+            "type": "dir"
+        },
+        {
+            "title": "A Hora do Rush: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jj5zZa9i26dFlPR9twVIkg46Xmz.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/1DH6MOfOBHtSJ0rd7P56bxoWDEy.jpg",
+            "genre": "Adventure, Action, Comedy, Thriller, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/hrush.xml",
+            "summary": "A Hora do Rush contém três filmes de artes marciais/comédia de ação dirigidos por Brett Ratner. A trama principal gira em torno de dois detetives de polícia: um inspetor de polícia chinês (Jackie Chan) e um detetive americano do LAPD (Chris Tucker) que parecem não conseguir evitar desventuras envolvendo figuras ameaçadoras do crime.",
+            "type": "dir"
+        },
+        {
+            "title": "Divergente: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AuRcFKpgHWInxR7MMomrsV9BPNy.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/51XPQ6WXQDRUu9YoujqSc10OQp2.jpg",
+            "genre": "Adventure, Action, Thriller, Science Fiction, Mystery",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/divergente.xml",
+            "summary": "Trilogia baseada nos romances de Vernoica Roth sobre o Universo Divergente. Numa Chicago futurista, a sociedade se divide em cinco facções – Abnegação, Amizade, Audácia, Franqueza e Erudição – e não pertencer a nenhuma facção é como ser invisível",
+            "type": "dir"
+        },
+        {
+            "title": "Duro de Matar: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v10xGRuoPfg8lx2S2YLTh0o3SIy.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/5kHVblr87FUScuab1PVSsK692IL.jpg",
+            "genre": "Action, Thriller",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/dmatar.xml",
+            "summary": "O Policial John McClane é posto sobe pressão diversas vezes para salvar vidas inocentes. Cabe a ele enfrentar o perigo, sem nunca desistir, sendo difícil de matar.",
+            "type": "dir"
+        },
+        {
+            "title": "A Era do Gelo: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5PM3zXVhd8O1YnPqbkI3gHsWe4.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/ovWkSikbJUMwwmUdD6WTa1bbFrh.jpg",
+            "genre": "Adventure, Animation, Comedy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/agelo.xml",
+            "summary": "A coleção de filmes da Era do Gelo é lançada nos cinemas pela Twentieth Century Fox Animation e Blue Sky Studios.",
+            "type": "dir"
+        },
+        {
+            "title": "Ela Dança, Eu Danço: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gCKQ1lJWynugfb42IahVKRGg3UO.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/3jr0rQcsWyfqBlmzE0h0igjJohS.jpg",
+            "genre": "Drama, Crime, Music, Romance",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/eudanco.xml",
+            "summary": "A coleção Ela Dança, Eu Danço são uma série de filmes de dança / romance-drama criados pela Duane Adler.",
+            "type": "dir"
+        },
+        {
+            "title": "Hotel Transilvânia: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hmBT5J6rWZaYA8qbbZkcSJnivHe.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/5MJt6g7k9gADQH4xHn5mOEMa3Vr.jpg",
+            "genre": "Adventure, Fantasy, Animation, Comedy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/htransilvania.xml",
+            "summary": "Série de filmes dedicada às aventuras do Conde Drácula e sua filha Mavis dirigindo um hotel livre de humanos para monstros.",
+            "type": "dir"
+        },
+        {
+            "title": "Alien: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vtYhUkFy6HEjY4RpjQjF6EEQshI.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/wveeD4Gg3WY669Kos7najNojdwm.jpg",
+            "genre": "Horror, Action, Thriller, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/alien.xml",
+            "summary": "A franquia de filmes de terror de ficção científica, com foco no personagem Tenente Ellen Ripley (Sigourney Weaver) e sua batalha com uma forma de vida extraterrestre, comumente referido como o alien. Produzido pela 20th Century Fox, a série começou com o filme de 1979 Alien: O Oitavo Passageiro, depois veio Aliens: O Resgate em 1996 seguido de Alien 3 em 1992, e por fim Alien: A Ressurreição em 1997.",
+            "type": "dir"
+        },
+        {
+            "title": "Annabelle: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mvJqtapxEvAgijdUDp28AZpdupi.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/9MYrsMQNSkRvT5iIfspKQzeIGRV.jpg",
+            "genre": "Horror",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/anabelle.xml",
+            "summary": "Uma série de filmes de terror sobrenatural que faz parte do universo de Conjuração e foi inspirada na história de uma boneca chamada Annabelle contada por Ed e Lorraine Warren.",
+            "type": "dir"
+        },
+        {
+            "title": "Até que a Sorte Nos Separe: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cajZAqsGmryqPyOBFkWeAWCMkL3.jpg",
+            "genre": "Comedy",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/nossepare.xml",
+            "summary": "Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma.",
+            "type": "dir"
+        },
+        {
+            "title": "Austin Powers: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/xjpifnN37fFmv0oZ02hJvczQpDC.jpg",
+            "genre": "Adventure, Comedy, Crime, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/apowers.xml",
+            "summary": "Austin Powers is a series of comedy films directed by Jay Roach and distributed by New Line Cinema, and written, produced by, and starring Mike Myers as the titular character. The films follow Austin Powers, a British spy, and his quest to bring the villain Dr. Evil to justice. The series mainly spoof the James Bond, Derek Flint, Jason King and Matt Helm franchises, incorporate myriad other elements of popular culture.",
+            "type": "dir"
+        },
+        {
+            "title": "Carga Explosiva: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndKbPht3VWTxrW3hyIrnHKDUnYn.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/usJ2DPe7sUY62DlS6xaIdqln6MF.jpg",
+            "genre": "Action, Thriller, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/cexplosiva.xml",
+            "summary": "Segue as façanhas de Frank Martin, um Transportador transportador mercenário que entrega pacotes sem perguntas.",
+            "type": "dir"
+        },
+        {
+            "title": "Carros: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j3ViL6Lo6D4csnGNI5qcc6ccUBm.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/5Y4nBvDDcBZmvuwxDYR3pvlm9aS.jpg",
+            "genre": "Adventure, Animation, Comedy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/carros.xml",
+            "summary": "Uma série de filmes de comédia de ação e aventura animada por computador que segue as aventuras de Faisca McQueen e Mater, ambientada num mundo povoado inteiramente por carros antropomórficos e outros veículos.",
+            "type": "dir"
+        },
+        {
+            "title": "Como Treinar o Seu Dragão: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oQlLO5h0EMjX3f3EqTcaHfZXlga.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/vzGPVBLwIInpY44pnTVdQRox5Ut.jpg",
+            "genre": "Adventure, Fantasy, Animation, Action, Comedy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/cdragao.xml",
+            "summary": "Esta série de filmes de animação de ação animada por computador segue as aventuras de um jovem viking chamado Soluço Haddock III, filho de Stoico, o Imenso, líder da ilha Viking de Berk. Embora inicialmente descartado como um desajeitado e a abaixo do peso, ele logo se torna reconhecido como um corajoso especialista em dragões, começando com Banguela, um membro da rara raça Fúria da Noite como a sua montaria voadora e o seu companheira mais próximo.",
+            "type": "dir"
+        },
+        {
+            "title": "A Múmia: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kiG1bxrI7V4J7mc3ukh2JmPspPJ.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/1BeKi6IytbfQlQocJSvP2k6sO1a.jpg",
+            "genre": "Adventure, Fantasy, Action",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/mumia.xml",
+            "summary": "A série de filmes Múmia é um remake de A Múmia, vagamente baseado no filme original de 1932. Os dois primeiros filmes da série foram escritos e dirigidos por Stephen Sommers.",
+            "type": "dir"
+        },
+        {
+            "title": "Corrida Mortal: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/QWsd92UlsTqGmUS2oR80jcNNRI.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/cGaVuq8ZjX1UPD9wPRlzx6lP9kK.jpg",
+            "genre": "Action, Thriller, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/cmortal.xml",
+            "summary": "Corrida Mortal é um filme americano 2008 de ficção científica produzido, escrito e dirigido por Paul W. S. Anderson e estrelado por Jason Statham. Referido como um remake do filme Corrida Mortal 2000 de 1975. Foram lançados mais 3 sequências: Corrida Mortal 2 (2011), Corrida Mortal 3: Inferno (2013) e Corrida Mortal: Anarquia (2018).",
+            "type": "dir"
+        },
+        {
+            "title": "Creed: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2DegKK48PhqdEVAjwLLcwY9aqCd.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/2hscwDISGOGGcHgn2ttogcnlWvl.jpg",
+            "genre": "Drama, Action",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/creed.xml",
+            "summary": "O ex-campeão mundial de pesos pesados Rocky Balboa atua como treinador e mentor do filho de Apollo Creed, Adonis. Esses filmes são spin-offs e sequências da série de filmes Rocky.",
+            "type": "dir"
+        },
+        {
+            "title": "Crepúsculo: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rwb1i7LaZFtMEMmoXNKiB7SJtIb.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/fpg1Uxc6zIAMRgY7RgbG0ZG9fzC.jpg",
+            "genre": "Adventure, Fantasy, Drama, Romance",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/crepusculo.xml",
+            "summary": "Crepúsculo é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer que viraram filme. A saga conta a história de Isabella Swan (Bella), uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro.",
+            "type": "dir"
+        },
+        {
+            "title": "De Volta para o Futuro: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4HIl0mkKdNWSctc4P4zXpGSpGvw.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/AqQotqj7XOI6GjB28nhMMa8YzOT.jpg",
+            "genre": "Adventure, Comedy, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/dfuturo.xml",
+            "summary": "Uma série americana de ficção científica e comédia que segue as aventuras de um aluno do ensino médio, Marty McFly e um cientista excêntrico, o Dr. Emmett L. Brown, quando usam uma máquina do tempo, um DeLorean para viajar a diferentes períodos da história de Hill Valley, Califórnia.",
+            "type": "dir"
+        },
+        {
+            "title": "Anjos da Noite: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIcfI7EHAffmzkaZKX2haPFDOaV.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg",
+            "genre": "Fantasy, Horror, Action, Thriller",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/anoite.xml",
+            "summary": "Anjos da Noite é uma coletânea composta por cinco filmes, estrelada por Kate Beckinsale, na personagem de Selene, uma vampira guerreira. Anjos da Noite (2003), Anjos da Noite: A Evolução (2006), Anjos da Noite: A Rebelião (2009), Anjos da Noite: O Despertar (2012) e Anjos da Noite: Guerras de Sangue (2016).",
+            "type": "dir"
+        },
+        {
+            "title": "Animais Fantásticos: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Us9APkGAskqv2ozle7pzVPC2bN.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/7j7eBhReCRafAYdCr5XaJzNAIDz.jpg",
+            "genre": "Adventure, Fantasy",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/afantasticos.xml",
+            "summary": "Os filmes de Fantastic Beasts são uma série de fantasia baseada e inspirada no livro mencionado nos romances de Harry Potter pelo escritor britânico J. K. Rowling. Colocado na mesma franquia de Wizarding World, eles seguem as aventuras de Newt Scamander, um auto-proclamado magizoologista, juntamente com Porpentina Tina Goldstein, um auror de MACUSA.",
+            "type": "dir"
+        },
+        {
+            "title": "O Protetor: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHeI0E9pXrBU6hhTlwdd0Q3QT6P.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/wac5llYhh0lC24yNWljrcOe4sR9.jpg",
+            "genre": "Action, Thriller, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/protetor.xml",
+            "summary": "O Protetor é um filme de suspense e ação de vigilante americano de 2014, vagamente baseado na série de TV de mesmo nome dos anos 1980. Uma sequência foi lançada em 20 de julho de 2018, com o retorno de Washington e Fuqua. Em 30 de agosto de 2023, um terceiro filme foi lançado tornando esta série uma trilogia.",
+            "type": "dir"
+        },
+        {
+            "title": "Todo Mundo em Pânico: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kkQLLOdgeW8s4saHIcNHBwLHzbx.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg",
+            "genre": "Comedia",
+            "link": "tmdb/collection/4246",
+            "summary": "Todo Mundo em Pânico é uma paródia dos filmes de terror iniciado em 2000 com direção de Keenen Ivory Wayans. É uma comédia de humor negro americana que parodia fortemente os gêneros de terror, suspense e mistério. O filme original foi seguido por quatro sequências. O título é uma homenagem ao filme Pânico, também lançado pela Dimension Films.",
+            "type": "dir"
+        },
+        {
+            "title": "Sobrenatural: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/original/7qXeocgg1EFVyW65LinabYh02uf.jpg",
+            "fanart": "https://streamcoimg-a.akamaihd.net/000/135/2235/1352235-Banner-L2-05568f2133ff0b68d1bbdb3d3996e267.jpeg",
+            "genre": "Terror, Suspense, Mistério",
+            "link": "tmdb/collection/228446",
+            "summary": "Uma série de filmes de terror americanos onde as tramas são retratadas como arquivos de casos de demonologistas. Os dois primeiros filmes giram em torno de um casal que, depois que seu filho entra misteriosamente em estado comatoso e se torna um vaso para fantasmas em um plano astral, são continuamente assombrados por demônios de um reino infernal conhecido como o Mais Distante até que eles tirem da família o que eles mais querem: vida. O terceiro filme, uma prequela, foca no mesmo médium que ajudou a família desta vez a socorrer uma jovem que clama pelos mortos, e o quarto a acompanha quando sua própria família se torna assombrada. Todas as tramas são retratadas como arquivos de casos de demonologistas.",
+            "type": "dir"
+        },
+		{
+            "title": "Busca Implacável: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kh24qZ1w2dStGL1LbOHDddh7cOK.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/9GbKnEBfPLsoDjP2RbmYHOSlX8f.jpg",
+            "genre": "Action, Thriller, Crime",
+            "link": "tmdb/collection/135483",
+            "summary": "Busca Implacável é uma coletânea francesa de filmes de ação, que tem como protagonista o Liam Neeson, na pele do personagem Bryan Mills, um ex-agente da CIA, que se encontra erradicado na Europa. A saga conta com três filmes, denominados Busca Implacável 1, 2 e 3, lançados em 2008, 2012 e 2015 respectivamente.",
+            "type": "dir"
+        },
+		{
+            "title": "101 Dálmatas (Animação): Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20otHsyyZQZZE7CryR3iCc433zd.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/b7EHS608P5Z98d6ldv4g5J83JQq.jpg",
+            "genre": "Adventure, Animation, Comedy, Family",
+            "link": "tmdb/collection/100693",
+            "summary": "As histórias de uma ninhada de filhotes de dálmata trazidos a você pela Disney.",
+            "type": "dir"
+        },
+		{
+			"title":"After: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/250ewaLutOJXqBBqMKxCHD1KpCL.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/zZTy8G3sEVZNv0yGssgc7DvPUQJ.jpg",
+			"genre":"Drama, Romance",
+			"link":"tmdb/collection/702624",
+			"type":"dir"
+		},
+		{
+			"title":"Cinquenta Tons: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfWe08R16b2Z3fNhM42y3DPYi3u.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/oH22k2rxMz7XMjyxwCNUaxan2c2.jpg",
+			"genre":"Drama, Thriller, Romance",
+			"link":"tmdb/collection/344830",
+			"type":"dir"
+		},
+		{
+			"title":"Alvin e os Esquilos: Coleção",
+			"tmdb":"167613",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AcwG8XcgKPxJKNy9sF7gbxbfA9V.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/9fVRjIWgvTtvQySFFgjMLG89c12.jpg",
+			"genre":"Adventure, Fantasy, Animation, Comedy, Music, Family",
+			"link":"tmdb/collection/167613",
+			"type":"dir"
+		},
+		{
+			"title":"American Pie: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rJzYNoyXBNmjmWWUD4rKTJZITm9.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/9vjgerKR19gTxhI1eKB5CcMfttz.jpg",
+			"genre":"Comedy, Romance",
+			"link":"tmdb/collection/2806",
+			"type":"dir"
+		},
+		{
+			"title":"Anaconda: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sENQAlXOhOb2QmfpFl2w34W9ODP.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/uR7j2TEwJVCMz7CDJgNPuhty4J9.jpg",
+			"genre":"Adventure, Fantasy, Horror, Action, Thriller, TV Movie",
+			"link":"tmdb/collection/105995",
+			"type":"dir"
+		},
+		{
+			"title":"Ace Ventura: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f1kWDSG8H76VmJvvx36eiehF29o.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/81lmzeTuMAyrDpgX6um9PIYgw8Y.jpg",
+			"genre":"Adventure, Comedy, Crime, Mystery, Family",
+			"link":"tmdb/collection/3167",
+			"type":"dir"
+		},
+		{
+			"title":"Dr. Dolittle: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yGF6vv7ekbkf9C3FRjrGIrkyyhc.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/dtz0ju3dikZaiSJ9HmVoMs9imT8.jpg",
+			"genre":"Fantasy, Comedy, Romance, Family",
+			"link":"tmdb/collection/3169",
+			"type":"dir"
+		},
+		{
+			"title":"Doce Vingança: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8mTALeCqiiWxL7se9fK1CRiSXNW.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/pXSHMjNXeIaYVjYd285LLg6385m.jpg",
+			"genre":"Horror, Thriller, Crime",
+			"link":"tmdb/collection/219691",
+			"type":"dir"
+		},
+		{
+			"title":"Os Deuses Devem Estar Loucos: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZZPh4UhyITOPxQPILhKKKrGBIx.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/3u6As0EKP2KKPNhzQObCgdYvm7f.jpg",
+			"genre":"Action, Comedy",
+			"link":"tmdb/collection/8393",
+			"type":"dir"
+		},
+		{
+			"title":"Pânico: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/g3UTK29RMThW0OIvWTLDfSPCHSV.jpg",
+			"genre":"Terror, Suspense, Crime, Mistério",
+			"link":"tmdb/collection/2602",
+			"type":"dir"
+		},
+		{
+			"title":"Invocação do Mal: Coleção",
+			"thumbnail":"https://image.tmdb.org/t/p/original/cE9XgHWwYaX5KysU7NS43LtFqxw.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
+			"genre":"Terror, Suspense, Misterio",
+			"link":"tmdb/collection/313086",
+			"description": "Teste",
+			"type":"dir"
+		},
+		{
+			"title":"Jogos Mortais: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dIqFwkyd38C9dYUhlibpYSp9IoT.jpg",
+			"genre":"Terror, Suspense, Crime, Misterio",
+			"link":"tmdb/collection/656",
+			"type":"dir"
+		},
+		{
+			"title":"Um Lugar Silencioso: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/original/aYIWZ8SmnZt6rDCuIvXzzcnxjWC.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg",
+			"genre":"Drama, Terror, Suspense, Ficção Científica",
+			"link":"tmdb/collection/521226",
+			"type":"dir"
+		},
+		{
+			"title":"It: A Coisa - Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tZ55C7gPExwzvBLCsZMqFZMbB2I.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/zTlvziOLzdUqUqQ3KZ4W9ex4sBD.jpg",
+			"genre":"Fantasia, Terror",
+			"link":"tmdb/collection/477962",
+			"type":"dir"
+		},
+		{
+			"title":"Rua do Medo: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg",
+			"genre":"Terror, Misterio",
+			"link":"tmdb/collection/790370",
+			"type":"dir"
+		},
+		{
+			"title":"Atividade Paranormal: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZIOIsr3GJn2d0grVlFfLKxmGA3.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/2UDoxTDlbcWRxLpKEx5gJAANSEQ.jpg",
+			"genre":"Terror, Suspense, Misterio",
+			"link":"tmdb/collection/41437",
+			"type":"dir"
+		},
+		{
+			"title":"A Entidade: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t19QJGCgExGEZabHosjKkLcn5jE.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/iQY3kJ2oqHqmcSm32xPfkFF4xW9.jpg",
+			"genre":"Terror, Suspense, Misterio",
+			"link":"tmdb/collection/357173",
+			"type":"dir"
+		},
+		{
+			"title":"O Chamado: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/500xj7l72BojMZ3tNBJY46tg5YJ.jpg",
+			"fanart":"https://www.themoviedb.org/t/p/original/jXlFymc442CEMB5h3d62GeJefnW.jpg",
+			"genre":"Terror, Mistério",
+			"link":"tmdb/collection/14563",
+			"type":"dir"
+		},
+		{
+            "title": "O Massacre da Serra Elétrica: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fzIAo3btVnHSvi4D8s5ub9MouRt.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+            "genre": "Horror, Comedy, Thriller",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/mse.xml",
+            "summary": "Uma série americana de filmes de terror slasher. A franquia se concentra em Leatherface, que aterroriza os visitantes desavisados em seu território, e tipicamente mata e canibaliza-os.",
+            "type": "dir"
+        },
+        {
+            "title": "As Crônicas de Nárnia: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bTswfA0eumbwLULnV9p8bBc6Ljx.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/tQlINE7wHXgVQ6oShS4uAiNVaVw.jpg",
+            "genre": "Adventure, Fantasy, Family",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/acdn.xml",
+            "summary": "Produções cinematográficas teatrais modernas baseadas na série de livros As Crônicas de Nárnia de C. S. Lewis",
+            "type": "dir"
+        },
+        {
+            "title": "Johnny English: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pz5kko3uMoYjj5HDoEEU7mK1y2P.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/w8gJ0wH64lVs5NIDD3D2SwmYK8a.jpg",
+            "genre": "Adventure, Action, Comedy, Crime",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/je.xml",
+            "summary": "Johnny English é uma série de filmes de comédia de ação britânicos, parodiando o gênero de agente secreto de James Bond. Possui Rowan Atkinson como o personagem principal, baseado no roteiro escrito por Neal Purvis, Robert Wade e William Davies. A série inclui três filmes. A série é infundida com comédia semelhante ao personagem de Mr. Bean, e arrecadou US $ 477,8 milhões em todo o mundo.",
+            "type": "dir"
+        },
+		 {
+            "title": "Olhos Famintos: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pn9mYRlbJDrEMBMVR5dB5VViuK.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/mzFtvzOdmuDYoQQuOzulsJkAUQB.jpg",
+            "genre": "Drama, Horror, Thriller, Mystery",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/of.xml",
+            "summary": "Filme de terror americano de 2001, escrito e dirigido por Victor Salva. O filme leva o nome da música Jeepers Creepers de 1938, que aparece no filme. Francis Ford Coppola produziu, e as estrelas de cinema Gina Philips, Justin Long, Jonathan Breck e Eileen Brennan. Philips e Long interpretam os irmãos que se tornam alvos de uma criatura demoníaca. Em 2003, uma sequência foi lançada, Olhos Famintos 2. Os eventos no segundo filme acontecem dias após o primeiro filme. O Creeper e Darry são os únicos personagens a aparecer em ambos os filmes, embora não sejam os únicos atores a aparecer em ambos os filmes. Em setembro de 2015, Olhos Famintos 3 foi anunciado. A filmagem começou em abril de 2016, com um lançamento previsto para 2017. Victor Salva retorna como diretor, Jonathan Breck retorna como The Creeper e Gina Philips acredita estar retornando como Trish Jenner, seu primeiro papel de tela em cinco anos.",
+            "type": "dir"
+        },
+        {
+            "title": "Os Caça-Fantasmas: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tWsc6LzQxxMiMEp1xI6KJ0sDWuZ.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/yka8c9kOHXmJpmFRn01y3lzfB1U.jpg",
+            "genre": "Adventure, Fantasy, Comedy, Science Fiction",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/ocft.xml",
+            "summary": "Os Caça-Fantasmas é um filme americano de comédia sobrenatural de 1984, dirigido e produzido por Ivan Reitman e escrito por Dan Aykroyd e Harold Ramis. O filme é estrelado por Bill Murray, Aykroyd e Ramis como três parapsicólogos excêntricos na cidade de Nova York que iniciam um negócio de captura de fantasmas. O segundo filme, Os Caça-Fantasmas 2, foi lançado em 1989.",
+            "type": "dir"
+        },
+        {
+            "title": "Os Mercenários: Coleção [COLOR yellow]63%[/COLOR]",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xgXSo9tPwWnu1acFlZLuIIyK0xb.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/lA7oDSt6LkyDqtbFGbyuG0afmTI.jpg",
+            "genre": "Adventure, Action, Thriller",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/oms.xml",
+            "summary": "Uma série de filmes sobre um grupo de mercenários. Um tributo aos filmes de ação dos anos 80 e 90 com algumas estrelas e lendas dessa época.",
+            "type": "dir"
+        },
+        {
+            "title": "Pânico Na Floresta: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6jhokusc6zbU0LaMqnUeOJwdKco.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/32IsLLCoj3mIkZbLfCKSXZVqd3k.jpg",
+            "genre": "Horror, Thriller",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/pnf.xml",
+            "summary": "Um grupo de pessoas lutando por sua sobrevivência contra uma família de canibais consternados deformados, que planejam destruí-los implacavelmente a todos.",
+            "type": "dir"
+        },
+        {
+            "title": "Piratas do Caribe: Coleção",
+            "thumbnail": "https://image.tmdb.org/t/p/original/A8iVNSmrW8cpOJatVvv8jdi24YA.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg",
+            "genre": "Adventure, Fantasy, Action",
+            "link": "tmdb/collection/295",
+            "summary": "Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.",
+            "type": "dir"
+        },
+        {
+            "title": "Pânico no Lago: Coleção",
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/XaIy5KtoAINiXikCewxU1xyaTw.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/fKijuk5TTzTxFitleJ9Molzzti1.jpg",
+            "genre": "Horror, Action, Comedy, Thriller, Science Fiction, TV Movie",
+            "link": "https://raw.githubusercontent.com/Gael1303/cinerom/main/sg/pnl.xml",
+            "summary": "Lake Placid é uma série americana de filmes de terror/comédia criada por David E. Kelley. É um retrocesso exagerado às características antigas da criatura. Produzida e distribuída pela Sony Pictures Home Entertainment, a série começou com Lake Placid (1999), dirigido por Steve Miner. Isso foi seguido por cinco sequências de televisão, Lake Placid 2 (2007) dirigido por David Flores, Lake Placid 3 (2010) dirigido por Griff Furst, Lake Placid: The Final Chapter (2012) dirigido por Don Michael Paul, Lake Placid vs. Anaconda (2015) dirigido por AB Stone e sendo um crossover com a série Anaconda, e Lake Placid: Legacy (2018) dirigido por Darrell Roodt. Cada parcela gira em torno da presença de crocodilos gigantes comedores de homens de 30 pés de comprimento no local fictício de Black Lake, Maine, e os esforços de vários grupos para capturar ou destruir as criaturas. Todos os filmes fazem referência a membros da família fictícia Bickerman.",
+            "type": "dir"
+        },
+		{
+			"title":"Uma Noite Alucinante: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lH2hbbOkf1MB9quzjvta5qtQgo9.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/377E9KSoUGxKWuvyR1Zu9aXcU4I.jpg",
+			"genre":"Fantasy, Horror, Comedy",
+			"link":"tmdb/collection/1960",
+			"type":"dir"
+		},
+		{
+			"title":"Millennium: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sLeE5pwX9cle1v1TpBylT9MeYJ2.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/9wLsZPhI7ZafO4fh1MhwCjvkclN.jpg",
+			"genre":"Drama, Action, Thriller, Crime, Mystery",
+			"link":"tmdb/collection/24761",
+			"type":"dir"
+		},
+		{
+			"title":"Antes... Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tFhi2FG5Uxjc3KTnWf9mFM51its.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/vMI8oOEQbhaCQnBFM9mXvJGyEKc.jpg",
+			"genre":"Drama, Romance",
+			"link":"tmdb/collection/123800",
+			"type":"dir"
+		},
+		{
+			"title":"Onze, Doze, Treze Homens e Um Segredo: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfnoEKS3dI0KGaSkyVNce6GpMaG.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/z2TbwtEzjMxYZ8TXfbJmhbahkom.jpg",
+			"genre":"Thriller, Crime",
+			"link":"tmdb/collection/304",
+			"type":"dir"
+		},
+		{
+			"title":"Hannibal Lecter: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lTtnUnKVFLX10Ui19WGiL7CqZ1y.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/qAtuvjXFkzUzFYn53I2vF1ueraA.jpg",
+			"genre":"Drama, Horror, Thriller, Crime",
+			"link":"tmdb/collection/9743",
+			"type":"dir"
+		},
+		{
+			"title":"Um Tira da Pesada: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6GZA6Mla1lKccVVUuhLU1LQoZAe.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/xpJmfMEamDkqCSe3cxpKqNzt4kI.jpg",
+			"genre":"Action, Comedy, Crime",
+			"link":"tmdb/collection/85861",
+			"type":"dir"
+		},
+		{
+			"title":"Vovó... Zona: Coleção",
+			"thumbnail":"https://image.tmdb.org/t/p/original/2WPy9FVkSnLblpO0OdEPwNh6six.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/5xN2n22evtZqxKWqg7WqOGnvb2s.jpg",
+			"genre":"Action, Comedy, Crime",
+			"link":"tmdb/collection/44979",
+			"type":"dir"
+		},
+		{
+			"title":"Sexta-Feira 13: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1t8zf4lc0dTYOpGSvuEaWCmcNV6.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/yz9EdlfKU8bpN0hbdJMy6QkFBoN.jpg",
+			"genre":"Horror, Thriller, Science Fiction",
+			"link":"tmdb/collection/9735",
+			"type":"dir"
+		},
+		{
+			"title":"Brinquedo Assassino: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dusNcX8NXYCuCGY3leTfbQPqHsM.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/x8rEmL5lmMKcBFcYa1FgAv25PHr.jpg",
+			"genre":"Horror, Comedy, Thriller",
+			"link":"tmdb/collection/10455",
+			"type":"dir"
+		}
+    ]
+}
