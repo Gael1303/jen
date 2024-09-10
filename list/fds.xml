@@ -2,25 +2,29 @@
   "items": [
     {
       "content": "movie",
-      "title": "Jogador Número 1",
+      "title": "Jogador N° 1",
       "imdb_id": "tt1677720",
+      "genre":"Aventura, Ação, Ficção científica",
       "thumbnail": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb",
+      "link":[
+           "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb(Principal)",
+           "plugin.video.elementum/serach?q=query(pesquisa)"
+             ],
       "type": "item"
     },
     {
       "content": "movie",
-      "title": "X-Men: Dias de um Futuro Esquecido",
-      "imdb_id": "tt1877832",
-      "thumbnail": "https://image.tmdb.org/t/p/w500/1Ilv6ryHUv6rt9zIsbSEJUmmbEi.jpg",
-      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56862b42244be962692862b88ee8a9bbde6c7614",
+      "title": "X-Men: Dias de um Futuro Esquecido (2014)",
+      "tmdb_id": "movie/127585",
+      "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
+      "link": "search",
       "type": "item"
     },
     {
       "content": "movie",
-      "title": "John Wick 1",
-      "imdb_id": "tt2911666",
-      "thumbnail": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+      "title": "John Wick: De Volta ao Jogo (2014)",
+      "tmdb_id": "245891",
+      "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hMsN0ab5kxU8yBBvbWyZoNIUULY.jpg",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459",
       "type": "item"
     },
