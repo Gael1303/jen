@@ -338,6 +338,30 @@
             "type": "dir"
         },
         {
+			"title":"Godzilla: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/inNN466SKHNjbGmpfhfsaPQNleS.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/psZ5CETZoaq2VRnxk95HuxOnI5D.jpg",
+			"genre":"Adventure, Drama, Action, Science Fiction",
+			"link":"tmdb/collection/535313",
+			"type":"dir"
+		},
+		{
+			"title":"Círculo de Fogo: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fmM3CboncxaslL2KMm4bl5oF7JE.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/kiIqPO6IlGnwLmg5is5HS3lM62c.jpg",
+			"genre":"Adventure, Fantasy, Action, Science Fiction",
+			"link":"tmdb/collection/",
+			"type":"dir"
+		},
+		{
+			"title":"Os Incríveis: Coleção",
+			"thumbnail":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xMX1jZyObVeWUxDQmt53X6jzIO4.jpg",
+			"fanart":"https://image.tmdb.org/t/p/original/6oi6V1O9MJRNnfV8E9JMntmFqBD.jpg",
+			"genre":"Adventure, Animation, Action, Family",
+			"link":"tmdb/collection/468222",
+			"type":"dir"
+		},
+        {
             "title": "High School Musical: Coleção",
             "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cn5Ik0y9K8zkk09JYWaD8YNGmoC.jpg",
             "fanart": "https://image.tmdb.org/t/p/original/t1mwGPJi3NkwMeyeUHr9zlQhlTo.jpg",
