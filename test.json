@@ -1,10 +1,11 @@
 {
   "movies": [
     {
-      "id": 573435,
+      "tmdb_id": 573435,
       "title": "Bad Boys: Até o Fim",
       "poster": "https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
       "backdrop": "https://example.com/backdrop1.jpg",
+      "year": 2024,
       "overview": "Descrição do Filme Exemplo 1"
     },
     {
