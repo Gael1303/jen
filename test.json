@@ -3,7 +3,7 @@
         "genre": "Ação",
         "icon": "https://path.to/your/action_icon.png",
         "fanart": "https://path.to/your/action_fanart.jpg",
-        "movies": [
+        "movies": [ 
             {
 		"id":646097,
                 "title": "Rebel Ridge",
