@@ -1,25 +1,18 @@
 {
-    "genres": [
+    "videos": [
         {
-            "genre": "Action",
-            "icon": "path_to_icon",
-            "fanart": "path_to_fanart",
-            "movies": [
-                {
-                    "title": "Movie 1",
-                    "poster": "path_to_poster",
-                    "plot": "Plot of movie 1",
-                    "year": 2023,
-                    "url": "http://example.com/movie1"
-                },
-                {
-                    "title": "Movie 2",
-                    "poster": "path_to_poster",
-                    "plot": "Plot of movie 2",
-                    "year": 2023,
-                    "url": "http://example.com/movie2"
-                }
-            ]
+            "title": "Filme A",
+            "poster": "http://example.com/posterA.jpg",
+            "plot": "Descrição do Filme A",
+            "year": 2023,
+            "url": "http://example.com/filmeA"
+        },
+        {
+            "title": "Filme B",
+            "poster": "http://example.com/posterB.jpg",
+            "plot": "Descrição do Filme B",
+            "year": 2023,
+            "url": "http://example.com/filmeB"
         }
     ]
 }
