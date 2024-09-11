@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 573435,
+      "title": "Bad Boys: Até o Fim",
+      "poster": "https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
+      "backdrop": "https://example.com/backdrop1.jpg",
+      "overview": "Descrição do Filme Exemplo 1"
+    },
+    {
+      "id": 2,
+      "title": "Filme Exemplo 2",
+      "poster": "https://example.com/poster2.jpg",
+      "backdrop": "https://example.com/backdrop2.jpg",
+      "overview": "Descrição do Filme Exemplo 2"
+    }
+    // Adicione mais filmes conforme necessário
+  ]
+}
