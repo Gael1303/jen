@@ -5,16 +5,21 @@
             "icon": "path_to_icon",
             "fanart": "path_to_fanart",
             "movies": [
-          {
-		"id":646097,
-                "title": "Rebel Ridge",
-                "url": "https://animezey.xyz/1:/Filmes/Filmes%20Dec%C3%AAnio%20(2735)/Rebeli%C3%A3o%202016%20Bluray%201080p%20Dublado/Rebeli%C3%A3o%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4",
-                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
-		"genre":"Crime, Ação, Thriller",
-                "plot": "Um ex-fuzileiro enfrenta a corrupção em uma cidadezinha depois que policiais locais apreendem o dinheiro da fiança de seu primo injustamente.",
-		"runtime":"120",
-                "year": "2024"
-            }
-        ]
-    }
-]
+                {
+                    "title": "Movie 1",
+                    "poster": "path_to_poster",
+                    "plot": "Plot of movie 1",
+                    "year": 2023,
+                    "url": "http://example.com/movie1"
+                },
+                {
+                    "title": "Movie 2",
+                    "poster": "path_to_poster",
+                    "plot": "Plot of movie 2",
+                    "year": 2023,
+                    "url": "http://example.com/movie2"
+                }
+            ]
+        }
+    ]
+}
