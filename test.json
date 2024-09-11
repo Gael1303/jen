@@ -5,13 +5,13 @@
         "fanart": "https://path.to/your/action_fanart.jpg",
         "movies": [
             {
-				"id":646097,
+		"id":646097,
                 "title": "Rebel Ridge",
                 "url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
-                "poster": "https://path.to/your/mad_max_poster.jpg",
-				"genre":"Crime, Ação, Thriller",
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+		"genre":"Crime, Ação, Thriller",
                 "plot": "Um ex-fuzileiro enfrenta a corrupção em uma cidadezinha depois que policiais locais apreendem o dinheiro da fiança de seu primo injustamente.",
-				"runtime":"120",
+		"runtime":"120",
                 "year": "2024"
             }
         ]
