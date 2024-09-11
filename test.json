@@ -5,18 +5,14 @@
         "fanart": "https://path.to/your/action_fanart.jpg",
         "movies": [
             {
-                "title": "Bad Boys: Até o Fim",
-                "url": "https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
+				"id":646097,
+                "title": "Rebel Ridge",
+                "url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
                 "poster": "https://path.to/your/mad_max_poster.jpg",
-                "plot": "Descrição do Filme Exemplo 1",
+				"genre":"Crime, Ação, Thriller",
+                "plot": "Um ex-fuzileiro enfrenta a corrupção em uma cidadezinha depois que policiais locais apreendem o dinheiro da fiança de seu primo injustamente.",
+				"runtime":"120",
                 "year": "2024"
-            },
-            {
-                "title": "John Wick",
-                "url": "https://path.to/your/video2.mp4",
-                "poster": "https://path.to/your/john_wick_poster.jpg",
-                "plot": "Um ex-assassino busca vingança após o assassinato de seu cachorro.",
-                "year": "2014"
             }
         ]
     }
