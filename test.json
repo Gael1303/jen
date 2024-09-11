@@ -1,21 +1,23 @@
-{
-  "movies": [
+[
     {
-      "id": 573435,
-      "title": "Bad Boys: Até o Fim",
-      "poster": "https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
-      "backdrop": "https://example.com/backdrop1.jpg",
-      "year": 2024,
-      "overview": "Descrição do Filme Exemplo 1",
-      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5727adf32ce141fa0be300a90d1a96eb79b2630f"
-    },
-    {
-      "id": 693134,
-      "title": "Duna: Parte Dois",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
-      "overview": "Descrição do Filme Exemplo 2",
-      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:examplemagnetlink"
+        "genre": "Ação",
+        "icon": "https://path.to/your/action_icon.png",
+        "fanart": "https://path.to/your/action_fanart.jpg",
+        "movies": [
+            {
+                "title": "Bad Boys: Até o Fim",
+                "url": "https://en.yts-official.mx/movies/poster/bad-boys-ride-or-die-2024.jpg",
+                "poster": "https://path.to/your/mad_max_poster.jpg",
+                "plot": "Descrição do Filme Exemplo 1",
+                "year": "2024"
+            },
+            {
+                "title": "John Wick",
+                "url": "https://path.to/your/video2.mp4",
+                "poster": "https://path.to/your/john_wick_poster.jpg",
+                "plot": "Um ex-assassino busca vingança após o assassinato de seu cachorro.",
+                "year": "2014"
+            }
+        ]
     }
-  ]
-}
+]
