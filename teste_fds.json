@@ -1,59 +1,175 @@
 {
-  "videos": [
-
+  "movies": [
     {
       "title": "Jogador N° 1",
       "year": 2018,
       "id": 333339,
       "genre": "Aventura, Ação, Ficção científica",
-      "poster_path": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-      "url": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb"
+      "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb"
     },
     {
       "title": "X-Men: Dias de um Futuro Esquecido",
       "id": 127585,
-      "year": 2014,
-      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
-      "url": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+      "year": 2014,   
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+      
     },
     {
       "title": "John Wick: De Volta ao Jogo",
       "year": 2014,
       "id": 245891,
-      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hMsN0ab5kxU8yBBvbWyZoNIUULY.jpg",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hMsN0ab5kxU8yBBvbWyZoNIUULY.jpg",
       "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459"
+      
     },
     {
       "title": "Onde os Fracos Não Têm Vez",
       "id": 6977,
-      "year": 2007,
-      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
-      "overview": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de heroína e irresistíveis dois milhões de dólares, sua decisão de levar o dinheiro deflagra uma interminável e violenta reação em cadeia, que nem a lei do Oeste do Texas pode deter.",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ee2b9fe59b670a96c0c95ef9306e8281ae8153"
+	  "year": 2007,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+	  "plot":"Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de heroína e irresistíveis dois milhões de dólares, sua decisão de levar o dinheiro deflagra uma interminável e violenta reação em cadeia, que nem a lei do Oeste do Texas pode deter.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ee2b9fe59b670a96c0c95ef9306e8281ae8153"
+      
     },
     {
       "title": "Corações de Ferro",
       "id": 228150,
-      "year": 2014,
-      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tVZXsjBC9HIoKv6WnAv0nWObbrT.jpg",
-      "overview": "Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3f320f03fda80b36407944f63157331e1194e5"
+	  "year": 2014,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tVZXsjBC9HIoKv6WnAv0nWObbrT.jpg",
+	  "plot":"Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3f320f03fda80b36407944f63157331e1194e5"
+      
     },
     {
+      
       "title": "Três Anúncios Para um Crime",
       "id": 359940,
-      "year": 2018,
-      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
-      "overview": "Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby, responsável pela investigação.",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a107987662bfe35cb071ab101022689969bca82b"
+	  "year": 2018,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+	  "plot":"Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby, responsável pela investigação.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a107987662bfe35cb071ab101022689969bca82b"
+      
     },
     {
+      
       "title": "Questão de Tempo",
       "id": 122906,
-      "year": 2013,
-      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg",
-      "overview": "Ao completar 21 anos, Tim descobre que pode viajar no tempo e mudar o passado. Depois de usar o poder para conseguir uma namorada, ele precisa lidar com consequências inesperadas.",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d1d9100e6faeb9be39487a5ed7947678bf9f078"
-    }
+	  "year": 2013,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg",
+	  "plot":"Ao completar 21 anos, Tim descobre que pode viajar no tempo e mudar o passado. Depois de usar o poder para conseguir uma namorada, ele precisa lidar com consequências inesperadas.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d1d9100e6faeb9be39487a5ed7947678bf9f078"
+      
+    },
+    {
+      
+      "title": "Efeito Borboleta",
+      "id": 1954,
+	  "year": 2004,
+      "poster": "https://media.themoviedb.org/t/p/w500/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg",
+	  "plot":"Evan é um jovem que luta para esquecer fatos de sua infância. Para isso, ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas, ele acaba criando novos, já que toda mudança que realiza gera consequências em seu futuro.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df17a63b60d4828b38c2c79565de30724dd363da"
+      
+    },
+    {
+      
+      "title": "Passageiros",
+      "imdb_id": "tt1355644",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bd7157df29a65c2f5f7cca92b95dcb97da793da"
+      
+    },
+    {
+      
+      "title": "Os 12 Macacos",
+      "id": 63,
+	  "year": 1996,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VN4I4PphQCg3MkGwnqHGX65WY0.jpg",
+	  "plot":"No ano de 2035, James Cole aceita a missão de voltar ao passado para tentar decifrar um mistério envolvendo um vírus mortal que atacou grande parte da população mundial. Tomado como louco, no passado, ele tenta provar a sua sanidade para a médica Kathryn Railly, sua única esperança de mudar o futuro.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7df3cd9e819ae7416fb82500755b0aaad83da0e7"
+      
+    },
+    {
+      
+      "title": "Sully: O Herói do Rio Hudson",
+      "id": 363676,
+	  "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w500/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18cbc8c28b1424320e4dd2c82f51037e285178d9"
+      
+    },
+    {
+      
+      "title": "Looper: Assassinos do Futuro",
+      "id": 59967,
+	  "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w500/qi3aMCoFbnfpbd0XBLznLUn99xQ.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad26fab7ae30ba14da5bfd20a1cd9eb312202735"
+      
+    },
+    {
+      
+      "title": "Homem-Aranha: Através do Aranhaverso",
+      "id": 569094,
+	  "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5"
+      
+    },
+    {
+      
+      "title": "A Caça",
+      "id": 103663,
+	  "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w500/jksxm18n70boh0LSlXibjimGr9g.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb98ee3cf83c156b1827ae1141c2516faf464b47"
+      
+    },
+    {
+      
+      "title": "A Lenda do Cavaleiro Verde",
+      "id": 559907,
+	  "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ec6527d3874d61be50ffd3e990c07c7a95346b1"
+      
+    },
+    {
+      
+      "title": "A.I. Inteligência Artificial",
+      "id": 644,
+	  "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w500/sQasyc5byDqjCZYXQDK215Jo7RD.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c396f465ff3c488cf6c828499237d796299c23d"
+      
+    },
+    {
+      
+      "title": "Família do Bagulho",
+      "id": 138832,
+	  "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w500/jzMWI5qM8Jk5AJKw5FJ0uD4JJm8.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2061ba6a28119d0e340914fc30743e1dc8e43747"
+      
+    },
+    {
+      
+      "title": "O Show de Truman",
+      "id": 37165,
+	  "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/original/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f29d6d251f491c98ae7579fd050760a82bc24915"
+      
+    },
+    {
+      
+      "title": "Os Irmãos Willoughby",
+      "id": 560044,
+	  "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w500/8DnmmpThvdY1PrOAJoL3rDEI4el.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8896112ca56020f3a93d56a059fe9bac3cd3eb84"
+      
+    }	
   ]
 }
