@@ -3,18 +3,17 @@
     {
       "title": "Jogador N° 1",
       "year": 2018,
-      "id": 333339,
-      "genre":"Aventura, Ação, Ficção científica",
+      "movie_id": 333339,
+      "genre": "Aventura, Ação, Ficção científica",
       "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb"
     },
     {
       "title": "X-Men: Dias de um Futuro Esquecido",
       "id": 127585,
-      "year": 2014,   
+      "year": 2014,
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
-      
     },
     {
       "title": "John Wick: De Volta ao Jogo",
@@ -22,16 +21,38 @@
       "id": 245891,
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hMsN0ab5kxU8yBBvbWyZoNIUULY.jpg",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459"
-      
     },
     {
       "title": "Onde os Fracos Não Têm Vez",
-      "movie_id": 6977,
-	  "year": 2007,
+      "id": 6977,
+      "year": 2007,
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
-	  "plot":"Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de heroína e irresistíveis dois milhões de dólares, sua decisão de levar o dinheiro deflagra uma interminável e violenta reação em cadeia, que nem a lei do Oeste do Texas pode deter.",
+      "plot": "Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de heroína e irresistíveis dois milhões de dólares, sua decisão de levar o dinheiro deflagra uma interminável e violenta reação em cadeia, que nem a lei do Oeste do Texas pode deter.",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ee2b9fe59b670a96c0c95ef9306e8281ae8153"
-      
+    },
+    {
+      "title": "Corações de Ferro",
+      "id": 228150,
+      "year": 2014,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tVZXsjBC9HIoKv6WnAv0nWObbrT.jpg",
+      "plot": "Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3f320f03fda80b36407944f63157331e1194e5"
+    },
+    {
+      "title": "Três Anúncios Para um Crime",
+      "id": 359940,
+      "year": 2018,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+      "plot": "Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby, responsável pela investigação.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a107987662bfe35cb071ab101022689969bca82b"
+    },
+    {
+      "title": "Questão de Tempo",
+      "id": 122906,
+      "year": 2013,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg",
+      "plot": "Ao completar 21 anos, Tim descobre que pode viajar no tempo e mudar o passado. Depois de usar o poder para conseguir uma namorada, ele precisa lidar com consequências inesperadas.",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d1d9100e6faeb9be39487a5ed7947678bf9f078"
     }
   ]
 }
