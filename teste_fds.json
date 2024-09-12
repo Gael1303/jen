@@ -2,32 +2,9 @@
   "movies": [
 
     {
-    "id": 123,
-    "title": "Movie Title",
-    "poster_path": "/path/to/poster.jpg",
-    "backdrop_path": "/path/to/backdrop.jpg",
-    "overview": "Movie overview",
-    "release_date": "2024-01-01",
-    "runtime": 120,
-    "genres": [
-        {"name": "Action"},
-        {"name": "Adventure"}
-    ],
-    "credits": {
-        "cast": [
-            {"name": "Actor One"},
-            {"name": "Actor Two"}
-        ]
-    },
-    "vote_average": 7.5,
-    "vote_count": 1000,
-    "original_language": "en",
-    "status": "Released"
-},
-    {
       "title": "Jogador N° 1",
       "year": 2018,
-      "tmdb_id": 333339,
+      "id": 333339,
       "genre": "Aventura, Ação, Ficção científica",
       "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
       "link": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb"
