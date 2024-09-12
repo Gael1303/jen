@@ -1,7 +1,6 @@
 {
   "movies": [
     {
-      "type": "item",
       "title": "Jogador N° 1",
       "id": "333339",
       "genre":"Aventura, Ação, Ficção científica",
@@ -9,7 +8,6 @@
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb",
     },
     {
-      "type": "item",
       "title": "X-Men: Dias de um Futuro Esquecido (2014)",
       "id": "127585",
       "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
@@ -17,15 +15,13 @@
       
     },
     {
-      "type": "item",
-      "title": "John Wick: De Volta ao Jogo (2014)",
+      "title": "John Wick: De Volta ao Jogo",
       "id": 245891,
       "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hMsN0ab5kxU8yBBvbWyZoNIUULY.jpg",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459",
       
     },
     {
-      "type": "item",
       "title": "Onde os Fracos Não Têm Vez",
       "id": 6977,
 	  "year": 2007,
@@ -35,7 +31,6 @@
       
     },
     {
-      "type": "item",
       "title": "Corações de Ferro",
       "id": 228150,
 	  "year": 2014,
@@ -45,7 +40,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Três Anúncios Para um Crime",
       "id": 359940,
 	  "year": 2018,
@@ -55,7 +50,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Questão de Tempo",
       "id": 122906,
 	  "year": 2013,
@@ -65,7 +60,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Efeito Borboleta",
       "id": 1954,
 	  "year": 2004,
@@ -75,7 +70,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Passageiros",
       "imdb_id": "tt1355644",
       "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg",
@@ -83,7 +78,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Os 12 Macacos",
       "id": 63,
 	  "year": 1996,
@@ -93,7 +88,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Sully: O Herói do Rio Hudson",
       "id": 363676,
 	  "year": 2016,
@@ -102,7 +97,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Looper: Assassinos do Futuro",
       "id": 59967,
 	  "year": 2012,
@@ -111,7 +106,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Homem-Aranha: Através do Aranhaverso",
       "id": 569094,
 	  "year": 2023,
@@ -120,7 +115,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "A Caça",
       "id": 103663,
 	  "year": 2012,
@@ -129,7 +124,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "A Lenda do Cavaleiro Verde",
       "id": 559907,
 	  "year": 2021,
@@ -138,7 +133,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "A.I. Inteligência Artificial",
       "id": 644,
 	  "year": 2001,
@@ -147,7 +142,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Família do Bagulho",
       "id": 138832,
 	  "year": 2013,
@@ -156,7 +151,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "O Show de Truman",
       "id": 37165,
 	  "year": 1998,
@@ -165,7 +160,7 @@
       
     },
     {
-      "type": "item",
+      
       "title": "Os Irmãos Willoughby",
       "id": 560044,
 	  "year": 2020,
@@ -174,7 +169,7 @@
       
     },
 	{
-      "type": "item",
+      
       "title": "A Bruxa",
       "thumbnail": "https://image.tmdb.org/t/p/w500/qqOtwhj8DxOBIwI0u6ThooXEIBR.jpg",
       "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aba091451c34714ebaa82175b2f0b304adf0e05e",
