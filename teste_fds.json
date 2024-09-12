@@ -23,21 +23,21 @@
     "vote_count": 1000,
     "original_language": "en",
     "status": "Released"
-}
+},
     {
       "title": "Jogador N° 1",
       "year": 2018,
       "tmdb_id": 333339,
       "genre": "Aventura, Ação, Ficção científica",
       "poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb"
+      "link": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb"
     },
     {
       "title": "X-Men: Dias de um Futuro Esquecido",
       "id": 127585,
       "year": 2014,
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
-      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
+      "link": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:"
     },
     {
       "title": "John Wick: De Volta ao Jogo",
