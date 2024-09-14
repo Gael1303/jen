@@ -98,7 +98,7 @@
 			"fanart": "https://image.tmdb.org/t/p/original/fS89P93Lq6pyT7d8ox8AMAEtXUs.jpg",
 			"genre": "Ficção científica, Romance, Comédia",
 			"released": "08.12.2023",
-			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6299becdb7018cdc4bda81790b52684388461118",
+			"link": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6299becdb7018cdc4bda81790b52684388461118",
 			"type": "item"
 		},
 		{
@@ -108,7 +108,7 @@
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/3IoSYT0gnuImnZ73rqYySJnmefA.jpg",
 			"genre": "Fantasia, Aventura, Comédia",
-			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9a14efba897a5f0fab5baf2d6ecb51e39d802d1",
+			"link": "plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9a14efba897a5f0fab5baf2d6ecb51e39d802d1",
 			"type": "item"
 		},
 		{
